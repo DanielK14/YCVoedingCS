@@ -1,3 +1,10 @@
+*/bin/**
+*/obj/**
+*/wwwroot/**
+.vs/**
+
+appsettings.json
+
 # Prerequisites
 *.d
 
