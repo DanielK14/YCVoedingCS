@@ -2,6 +2,7 @@
 */obj/**
 */wwwroot/**
 */.vs/**
+.vs/**
 
 appsettings.json
 
